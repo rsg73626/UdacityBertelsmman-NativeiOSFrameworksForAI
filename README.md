@@ -1,5 +1,7 @@
 # UdacityBertelsmman-NativeiOSFrameworksForAI
 
+**The VIDEO PRESENATION is aviable [HERE](https://www.youtube.com/watch?v=Rw5QNyF0qz0&feature=youtu.be).**
+
 This repository contains the materials used in the presentation **"Native iOS Framewoks for AI"**, given as part of my study group's activities in the Udacity Bertelsmann Technology Shcolarship Program - AI track. The materials are:
 
 - A Keynote presentation.
